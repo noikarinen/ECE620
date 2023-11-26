@@ -1,0 +1,392 @@
+{
+    "NUTS": {
+        "mean": {
+            "beta": 10016.919,
+            "alpha": 2.936
+        },
+        "sd": {
+            "beta": 2634.071,
+            "alpha": 0.416
+        },
+        "hdi_3%": {
+            "beta": 6025.097,
+            "alpha": 2.271
+        },
+        "hdi_97%": {
+            "beta": 14993.128,
+            "alpha": 3.735
+        },
+        "mcse_mean": {
+            "beta": 46.612,
+            "alpha": 0.009
+        },
+        "mcse_sd": {
+            "beta": 32.963,
+            "alpha": 0.006
+        },
+        "ess_bulk": {
+            "beta": 2824.0,
+            "alpha": 2876.0
+        },
+        "ess_tail": {
+            "beta": 1928.0,
+            "alpha": 1273.0
+        },
+        "r_hat": {
+            "beta": 1.01,
+            "alpha": 1.01
+        },
+        "Computation time(sec)": 50.873380552
+    },
+    "Metropolis": {
+        "mean": {
+            "beta": 9980.668,
+            "alpha": 2.954
+        },
+        "sd": {
+            "beta": 2688.942,
+            "alpha": 0.449
+        },
+        "hdi_3%": {
+            "beta": 5703.749,
+            "alpha": 2.23
+        },
+        "hdi_97%": {
+            "beta": 14871.308,
+            "alpha": 3.781
+        },
+        "mcse_mean": {
+            "beta": 113.234,
+            "alpha": 0.021
+        },
+        "mcse_sd": {
+            "beta": 80.11,
+            "alpha": 0.015
+        },
+        "ess_bulk": {
+            "beta": 557.0,
+            "alpha": 536.0
+        },
+        "ess_tail": {
+            "beta": 447.0,
+            "alpha": 485.0
+        },
+        "r_hat": {
+            "beta": 1.04,
+            "alpha": 1.05
+        },
+        "Computation time(sec)": 25.756065988
+    },
+    "DEMetropolis": {
+        "mean": {
+            "beta": 10055.703,
+            "alpha": 2.938
+        },
+        "sd": {
+            "beta": 2664.968,
+            "alpha": 0.421
+        },
+        "hdi_3%": {
+            "beta": 5962.616,
+            "alpha": 2.258
+        },
+        "hdi_97%": {
+            "beta": 14971.6,
+            "alpha": 3.722
+        },
+        "mcse_mean": {
+            "beta": 57.441,
+            "alpha": 0.008
+        },
+        "mcse_sd": {
+            "beta": 42.434,
+            "alpha": 0.006
+        },
+        "ess_bulk": {
+            "beta": 1930.0,
+            "alpha": 2618.0
+        },
+        "ess_tail": {
+            "beta": 1175.0,
+            "alpha": 2996.0
+        },
+        "r_hat": {
+            "beta": 1.01,
+            "alpha": 1.01
+        },
+        "Computation time(sec)": 33.293855045
+    },
+    "DEMetropolisZ": {
+        "mean": {
+            "beta": 10055.703,
+            "alpha": 2.938
+        },
+        "sd": {
+            "beta": 2664.968,
+            "alpha": 0.421
+        },
+        "hdi_3%": {
+            "beta": 5962.616,
+            "alpha": 2.258
+        },
+        "hdi_97%": {
+            "beta": 14971.6,
+            "alpha": 3.722
+        },
+        "mcse_mean": {
+            "beta": 57.441,
+            "alpha": 0.008
+        },
+        "mcse_sd": {
+            "beta": 42.434,
+            "alpha": 0.006
+        },
+        "ess_bulk": {
+            "beta": 1930.0,
+            "alpha": 2618.0
+        },
+        "ess_tail": {
+            "beta": 1175.0,
+            "alpha": 2996.0
+        },
+        "r_hat": {
+            "beta": 1.01,
+            "alpha": 1.01
+        },
+        "Computation time(sec)": 23.141855935
+    },
+    "Slice": {
+        "mean": {
+            "beta": 10003.717,
+            "alpha": 2.941
+        },
+        "sd": {
+            "beta": 2647.08,
+            "alpha": 0.428
+        },
+        "hdi_3%": {
+            "beta": 5920.65,
+            "alpha": 2.247
+        },
+        "hdi_97%": {
+            "beta": 14943.851,
+            "alpha": 3.736
+        },
+        "mcse_mean": {
+            "beta": 45.391,
+            "alpha": 0.007
+        },
+        "mcse_sd": {
+            "beta": 32.099,
+            "alpha": 0.005
+        },
+        "ess_bulk": {
+            "beta": 3389.0,
+            "alpha": 3566.0
+        },
+        "ess_tail": {
+            "beta": 5603.0,
+            "alpha": 5448.0
+        },
+        "r_hat": {
+            "beta": 1.01,
+            "alpha": 1.01
+        },
+        "Computation time(sec)": 33.863605597
+    },
+    "NUTS Informed": {
+        "mean": {
+            "beta": 10114.646,
+            "alpha": 2.699
+        },
+        "sd": {
+            "beta": 483.019,
+            "alpha": 0.14
+        },
+        "hdi_3%": {
+            "beta": 9230.908,
+            "alpha": 2.461
+        },
+        "hdi_97%": {
+            "beta": 11035.688,
+            "alpha": 2.972
+        },
+        "mcse_mean": {
+            "beta": 4.563,
+            "alpha": 0.001
+        },
+        "mcse_sd": {
+            "beta": 3.242,
+            "alpha": 0.001
+        },
+        "ess_bulk": {
+            "beta": 11195.0,
+            "alpha": 10827.0
+        },
+        "ess_tail": {
+            "beta": 13222.0,
+            "alpha": 7669.0
+        },
+        "r_hat": {
+            "beta": 1.0,
+            "alpha": 1.0
+        },
+        "Computation time(sec)": 51.558281037
+    },
+    "Metropolis Informed": {
+        "mean": {
+            "beta": 10101.581,
+            "alpha": 2.706
+        },
+        "sd": {
+            "beta": 486.123,
+            "alpha": 0.143
+        },
+        "hdi_3%": {
+            "beta": 9155.168,
+            "alpha": 2.482
+        },
+        "hdi_97%": {
+            "beta": 10986.902,
+            "alpha": 2.996
+        },
+        "mcse_mean": {
+            "beta": 6.661,
+            "alpha": 0.002
+        },
+        "mcse_sd": {
+            "beta": 4.71,
+            "alpha": 0.002
+        },
+        "ess_bulk": {
+            "beta": 5336.0,
+            "alpha": 4100.0
+        },
+        "ess_tail": {
+            "beta": 7190.0,
+            "alpha": 3342.0
+        },
+        "r_hat": {
+            "beta": 1.0,
+            "alpha": 1.01
+        },
+        "Computation time(sec)": 21.871189621
+    },
+    "DEMetropolis Informed": {
+        "mean": {
+            "beta": 10114.008,
+            "alpha": 2.699
+        },
+        "sd": {
+            "beta": 498.069,
+            "alpha": 0.142
+        },
+        "hdi_3%": {
+            "beta": 9206.016,
+            "alpha": 2.451
+        },
+        "hdi_97%": {
+            "beta": 11080.839,
+            "alpha": 2.966
+        },
+        "mcse_mean": {
+            "beta": 8.449,
+            "alpha": 0.003
+        },
+        "mcse_sd": {
+            "beta": 5.983,
+            "alpha": 0.002
+        },
+        "ess_bulk": {
+            "beta": 3480.0,
+            "alpha": 2855.0
+        },
+        "ess_tail": {
+            "beta": 4547.0,
+            "alpha": 2736.0
+        },
+        "r_hat": {
+            "beta": 1.01,
+            "alpha": 1.01
+        },
+        "Computation time(sec)": 29.691419794
+    },
+    "DEMetropolisZ Informed": {
+        "mean": {
+            "beta": 10129.041,
+            "alpha": 2.693
+        },
+        "sd": {
+            "beta": 487.593,
+            "alpha": 0.138
+        },
+        "hdi_3%": {
+            "beta": 9220.181,
+            "alpha": 2.444
+        },
+        "hdi_97%": {
+            "beta": 11032.778,
+            "alpha": 2.955
+        },
+        "mcse_mean": {
+            "beta": 7.956,
+            "alpha": 0.002
+        },
+        "mcse_sd": {
+            "beta": 5.626,
+            "alpha": 0.002
+        },
+        "ess_bulk": {
+            "beta": 3753.0,
+            "alpha": 3074.0
+        },
+        "ess_tail": {
+            "beta": 5013.0,
+            "alpha": 2737.0
+        },
+        "r_hat": {
+            "beta": 1.01,
+            "alpha": 1.01
+        },
+        "Computation time(sec)": 19.733566093
+    },
+    "Slice Informed": {
+        "mean": {
+            "beta": 10118.171,
+            "alpha": 2.7
+        },
+        "sd": {
+            "beta": 483.825,
+            "alpha": 0.141
+        },
+        "hdi_3%": {
+            "beta": 9237.991,
+            "alpha": 2.457
+        },
+        "hdi_97%": {
+            "beta": 11051.765,
+            "alpha": 2.975
+        },
+        "mcse_mean": {
+            "beta": 2.971,
+            "alpha": 0.001
+        },
+        "mcse_sd": {
+            "beta": 2.102,
+            "alpha": 0.001
+        },
+        "ess_bulk": {
+            "beta": 26532.0,
+            "alpha": 18730.0
+        },
+        "ess_tail": {
+            "beta": 23513.0,
+            "alpha": 13557.0
+        },
+        "r_hat": {
+            "beta": 1.0,
+            "alpha": 1.0
+        },
+        "Computation time(sec)": 32.980240743
+    }
+}
